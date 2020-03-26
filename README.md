@@ -13,3 +13,4 @@ Northwestern Europe Regional Contest (NWERC) 2019 <br/>
 <br/>
 [XVIII Open Cup named after E.V. Pankratiev. Grand Prix of Khamovniki](https://github.com/KI-aq/CodeStore/tree/master/OpenCup/Grand%20Prix%20of%20Khamovniki)<br/>
 [2017-2018 8th BSUIR Open Programming Contest. Semifinal](https://github.com/KI-aq/CodeStore/tree/master/Special/2017-2018%208th%20BSUIR%20Open%20Programming%20Contest.%20Semifinal)<br/>
+[2016-2017 Hong Kong Regional Contest](https://github.com/KI-aq/CodeStore/tree/master/2016-2017-ICPC/2016-2017%20Hong%20Kong%20Regional%20Contest)<br/>
