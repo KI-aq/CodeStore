@@ -1,4 +1,7 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # Partial Solution
+$$x > y$$
 ## A.BSUIR Open
   找到BSUIROPEN每个字母的出现次数，直接相乘即可</br></br>
 ## B.Freebie 
